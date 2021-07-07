@@ -1,0 +1,6 @@
+classes= 9
+train  = G:\labelImg-master/train_data/train.txt
+valid  = G:\labelImg-master/train_data/valid.txt
+names  = G:\labelImg-master/train_data/training.names
+backup  = G:\labelImg-master/train_data/backup/
+eval=coco
